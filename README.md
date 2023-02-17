@@ -6,7 +6,7 @@
 - 🏄‍ Learning how to contribute into open source.
 
 ## About
-- I'm Atul Gawade, Currently working in <a href ="https://www.rhenus.group/in/en/">Rhenus Logistics </a> as Backend Develper.
+- I'm Atul Gawade, Currently working in <a href ="https://www.rhenus.group/in/en/">Rhenus Logistics </a> as Backend Develper. Open Source and Web3 enthusiast.
 
 
 <img 
