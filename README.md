@@ -1,9 +1,9 @@
-<h1>Hi Firends I'm ATUL 👋 </h1>
+<h1>Hi Friends I'm ATUL 👋 </h1>
 
 - 🌱 I am working as a Backend Developer.
-- 🌱 Strong experties in *<b>Java, Spring Boot,and Microservices.</b>*
-- 👀 I am currently learning *<b> NodeJS </b>*.
-- 🏄‍ Learning how to contribute into open source.
+- 🌱 Strong expertise in *<b>Java, Spring Boot,and Microservices.</b>*
+- 👀 I am currently learning *<b> Kubernetes & Docker </b>*.
+- 🏄‍ Learning how to contribute to open source.
 
 ## About
 - I'm Atul Gawade, Currently working in <a href ="https://www.rhenus.group/in/en/">Rhenus Logistics </a> as Backend Develper. Open Source and Web3 enthusiast.
